@@ -5,8 +5,7 @@
 ### Objetivo del Trabajo
 
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos
-(EDA) sobre el impacto del uso de herramientas de la Inteligencia Artificial Generativa (IAg) en el desempeño académico y bienestar social y psicológicos de estudiantes de educación superior. Este EDA incluye visualizaciones y parámetros estadísticos que buscan identificar tendencias que respondan a hipótesiss y preguntas se investigación que se plane
-tearon en torno al Uso de la IAg en el contexto educacional.
+(EDA) sobre el impacto del uso de herramientas de la Inteligencia Artificial Generativa (IAg) en el desempeño académico y bienestar social y psicológicos de estudiantes de educación superior. Este EDA incluye visualizaciones y parámetros estadísticos que buscan identificar tendencias que respondan a hipótesiss y preguntas de investigación que se plantearon en torno al Uso de la IAg en el contexto educacional.
 
 
 ### Contexto del Dataset
