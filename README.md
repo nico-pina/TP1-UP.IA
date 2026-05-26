@@ -61,7 +61,7 @@ Para analizar esta hipótesis se realizó un diagrama de dispersión tomando las
 
 - **H3**: Hay un aumento en el promedio de notas a mayor uso percibido de la IAg
 
-La barra asociada a Post_Semester_GPA (Promedio) es consistentemente mayor que Pre_Semester_GPA (Promedio) en todos los niveles de uso de IAg. Esto última indica una mejora independiente en GPA es independiente del nivel de uso de la IAg. Por este motivo, la hipotesis es falta, esto es que el nivel de uso de la herramienta no parece ser un factor diferenciador en el rendimiento académico medido por GPA.
+La barra asociada a Post_Semester_GPA (Promedio) es consistentemente mayor que Pre_Semester_GPA (Promedio) en todos los niveles de uso de IAg. Esto último indica una mejora en GPA es independiente del nivel de uso de la IAg. Por este motivo, la hipotesis es falta, esto es que el nivel de uso de la herramienta no parece ser un factor diferenciador en el rendimiento académico medido por GPA.
 
 **PREGUNTAS**
 
