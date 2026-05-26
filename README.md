@@ -59,7 +59,7 @@ Para analizar esta hipótesis se realizó un diagrama de dispersión tomando las
 
 Para analizar esta hipótesis se realizó un diagrama de dispersión tomando las variables ``Weekly_GenAI_Hours `` y ``Traditional_Study_Hours ``. El comportamiento observado va en la dirección de lo planteado, sin embargo, el efecto es débil y no se percibe una tendencia marcada entre ambas variables. La alta dispersión de los datos sugiere que el uso de IAg no es el único ni el principal factor que determina las horas dedicadas al estudio tradicional.
 
-- **H3**:  H3: Hay un aumento en el promedio de notas a mayor uso percibido de la IAg
+- **H3**: Hay un aumento en el promedio de notas a mayor uso percibido de la IAg
 
 La barra asociada a Post_Semester_GPA (Promedio) es consistentemente mayor que Pre_Semester_GPA (Promedio) en todos los niveles de uso de IAg. Esto última indica una mejora independiente en GPA es independiente del nivel de uso de la IAg. Por este motivo, la hipotesis es falta, esto es que el nivel de uso de la herramienta no parece ser un factor diferenciador en el rendimiento académico medido por GPA.
 
@@ -76,7 +76,7 @@ Adicionalmente, la media es mayor que la mediana, lo que es un factor caracterí
 
 Entre los estudiantes del área científica (STEM y Medical), el uso principal más frecuente de la IAg es Debugging/Troubleshooting(depuración y resolución de problemas), con una cantidad de cerca de 8500 estudiantes, superando ampliamente a los otros usos.  Summarizing/Reading ocupa el segundo lugar con una cantidad de estudiantes cerca de los 5000, dejando muy por detrás a las categorias Direct_Answer_Generation, Ideation y Copywriting/Drafting.
 
-Este resultado es coherente de acuerdo al perfil de estudiantes analizados, ya que el área de ciencias suelen enfrentarse a problemas técnicos de programación, cálculos estadísticos y matemáticas y en la resolución de casos de estudios. Las tareas de depuración y resolución de problemas están alineados con las problemáticas que enfrentan los estudiantes de estas categóricas.
+Este resultado es coherente de acuerdo al perfil de estudiantes analizados, ya que el área de ciencias suelen enfrentarse a problemas técnicos de programación, cálculos estadísticos y matemáticos y en la resolución de casos de estudios. Las tareas de depuración y resolución de problemas están alineados con las problemáticas que enfrentan los estudiantes de estas categóricas.
 
 
 ### Limitaciones
