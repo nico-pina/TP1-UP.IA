@@ -47,7 +47,7 @@ Todas las etapas, desde la carga del dataset hasta la generación de gráficos, 
 
 ### Conclusiones y hallazgos relevantes
 
-Previo al proceso de graficación, se formularon tres hipotesis (H1, H2 y H3) y dos preguntas (P1 y P2) que nos proporcionarán un marco conceptual para el análisis de los datos del Dataset.  Estas preguntas e hipótesis permiten definir qué relaciones explorar, qué patrones buscar y qué comparaciones son metodológicamente relevantes dentro del estudio.
+Previo al proceso de graficación, se formularon cuatro hipotesis (H1, H2, H3 y H4) y dos preguntas (P1 y P2) que nos proporcionarán un marco conceptual para el análisis de los datos del Dataset.  Estas preguntas e hipótesis permiten definir qué relaciones explorar, qué patrones buscar y qué comparaciones son metodológicamente relevantes dentro del estudio.
 
 **HIPOTESIS**
 
@@ -62,6 +62,10 @@ Para analizar esta hipótesis se realizó un diagrama de dispersión tomando las
 - **H3**: Hay un aumento en el promedio de notas a mayor uso percibido de la IAg
 
 La barra asociada a Post_Semester_GPA (Promedio) es consistentemente mayor que Pre_Semester_GPA (Promedio) en todos los niveles de uso de IAg. Esto último indica una mejora en GPA es independiente del nivel de uso de la IAg. Por este motivo, la hipotesis es falta, esto es que el nivel de uso de la herramienta no parece ser un factor diferenciador en el rendimiento académico medido por GPA.
+
+- **H4**: Los usuarios con suscripción de pago utilizan herramientas de IA generativa durante más horas semanales que los usuarios sin suscripción.
+
+De acuerdo a la información de gráfico, la hipotesis se acepta, ya que se identifica que hay un aumento en las horas de uso en usuarios que pagan suscripción en camparación a aquellos que no pagan. Estos resultados podrían explicarse porque los usuarios con suscripción cuentan con un acceso más amplio ( mayor tokens) con respecto a aquellos que usan la versión gratuita. Además, los usuarios suscritos suelen incorporar la IAg de manera más estable en su flujo de trabajo cotidiano, ya sea para tareas académicas, profesionales o creativas, lo que incrementa naturalmente el tiempo de uso semanal.
 
 **PREGUNTAS**
 
