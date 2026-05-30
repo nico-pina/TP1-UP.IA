@@ -86,3 +86,7 @@ Este resultado es coherente de acuerdo al perfil de estudiantes analizados, ya q
 ### Limitaciones
 
 De acuerdo a la información declarada, este dataset  se generó sintéticamente para simular el comportamiento real de los estudiantes y los resultados académicos en el contexto de la adopción de la IA generativa. Por este motivo, los patrones y tendencias identificados no necesariamente reflejan el comportamiento real de un grupo de estudiantes universitarios que usan IAg. Además, las variables ``Perceived_AI_Dependency`` y ``Anxiety_Level_During_Exams``, entre otras, son percepciones personales, por lo que induce a un sesgo subjetivo en el análisis. A pesar de lo antes declarado, el dataset nos permite realizar hallazgos de caracter exploratorios/descriptivos, útil para una primera aproximación en un EDA.
+
+
+
+*La previsualización del notebook ha generado problema durante el día sábado 30/05 en la mañana. Por este motivo, [adjunto el notebook renderizado en nbviewer](https://nbviewer.org/github/nico-pina/TP1-UP.IA/blob/main/EDA%20Dataset%20IA_%20NP.ipynb)
