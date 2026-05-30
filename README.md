@@ -69,7 +69,7 @@ De acuerdo a la información de gráfico, la hipotesis se acepta, ya que se iden
 
 **PREGUNTAS**
 
-- **P1**: ¿La distribución del uso de IAg por semana es simétrica o está sesgada?
+- **P1**: ¿La distribución de las horas de uso semanal de herramientas de inteligencia artificial presenta simetría o evidencia un sesgo hacia alguno de sus extremos?
 
 La distribución de horas semanales en el uso de IAg presenta una distribución claramente sesgada positivamente, por lo tanto, no es simétrica. La mayor concentración de los estudiantes se ubica en valores bajos ( 0 - 6 hrs), que de acuerdo con clasificación, el uso semanal de la IAg se encuentra en ocasional y regular. Se observa además un peak aislado en el extremo derecho, correspondiente al límite máximo del dataset.
 
