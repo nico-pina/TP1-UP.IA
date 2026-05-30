@@ -89,4 +89,4 @@ De acuerdo a la información declarada, este dataset  se generó sintéticamente
 
 
 
-*La previsualización del notebook ha generado problema durante el día sábado 30/05 en la mañana. Por este motivo, [adjunto el notebook renderizado en nbviewer](https://nbviewer.org/github/nico-pina/TP1-UP.IA/blob/main/EDA%20Dataset%20IA_%20NP.ipynb)
+*La previsualización del notebook directamente en GitHub ha generado problema durante el día sábado 30/05 en la mañana. Por este motivo, [adjunto el notebook renderizado en nbviewer](https://nbviewer.org/github/nico-pina/TP1-UP.IA/blob/main/EDA%20Dataset%20IA_%20NP.ipynb)
